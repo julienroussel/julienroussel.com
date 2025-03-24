@@ -1,0 +1,23 @@
+{
+  "name": "julienroussel.com",
+  "version": "1.0.0",
+  "description": "julienroussel.com",
+  "homepage": "https://github.com/julienroussel/julienroussel.com#readme",
+  "bugs": {
+    "url": "https://github.com/julienroussel/julienroussel.com/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julienroussel/julienroussel.com.git"
+  },
+  "license": "ISC",
+  "author": "Julien Roussel <julien.roussel@gmail.com>",
+  "type": "module",
+  "scripts": {
+    "build": "npx @11ty/eleventy",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "3.0.0"
+  }
+}
