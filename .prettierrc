@@ -1,0 +1,12 @@
+{
+  "trailingComma": "all",
+  "semi": true,
+  "singleQuote": true,
+  "quoteProps": "consistent",
+  "overrides": [
+    {
+      "files": "*.njk",
+      "options": { "parser": "html" }
+    }
+  ]
+}
