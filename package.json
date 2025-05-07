@@ -26,6 +26,6 @@
     "@11ty/eleventy-plugin-syntaxhighlight": "5.0.0",
     "luxon": "3.6.1",
     "zod": "3.24.4",
-    "zod-validation-error": "3.4.0"
+    "zod-validation-error": "3.4.1"
   }
 }
